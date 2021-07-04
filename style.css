@@ -1,0 +1,14 @@
+body {
+    background: rgb(39, 39, 223);
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(5, 65, 5);
+}
+
+.border {
+    border: 15px solid red;
+}
